@@ -99,5 +99,5 @@ These projects provided insights into various business problems through the lens
 ## Getting Started
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/data-analytics-project-portfolio.git
+   git clone https://github.com/MSVelan/data-analytics-project-portfolio.git
 
