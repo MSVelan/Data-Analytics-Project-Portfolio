@@ -5,6 +5,11 @@ This project involves the analysis of a loan application dataset to identify key
 
 ---
 
+## Video Explanation
+[!Watch the video](https://www.loom.com/share/e58c3efe1dac4a599b2194c5633ff30d?sid=5e8babad-5448-4536-a5e6-bc0087592f8f)
+
+---
+
 ## Key Areas of Analysis
 
 ### A. Identify Missing Data and Handle It Appropriately
