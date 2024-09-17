@@ -7,6 +7,11 @@ Using Excel's powerful functions and tools, we conduct in-depth analysis on a da
 
 ---
 
+## Video Explanation
+[!Watch the video](https://www.loom.com/share/32eb8f4dda024adfa8df791c56ef3fb0?sid=fb14f51f-9cb7-42e5-8e0b-1cf1a44f0f24)
+
+---
+
 ## Key Areas of Analysis
 
 ### A. Movie Genre Analysis: Distribution and Impact on IMDB Score
