@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a collection of data analytics projects, each addressing a unique real-world problem through the application of data-driven methodologies. The projects span across multiple industries and data analysis domains such as social media, operations, hiring, movie ratings, and finance. Using tools like **SQL**, **MySQL Workbench**, **Excel**, and **Exploratory Data Analysis (EDA)**, these projects showcase the power of data to generate meaningful insights for business growth and operational efficiency.
 
+Project-3 and Project-6 are the most complex ones in this repository involving SQL and Excel.
+
 ---
 
 ## Projects
